@@ -11,8 +11,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        dots: ["Dot Matrix Regular"],
-        dotsBp: ["BPdots"]
+        dotsBp: ["BPdots"],
       },
       backgroundImage: {
         "hero-pattern":

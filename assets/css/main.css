@@ -3,11 +3,6 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Dot Matrix Regular";
-  src: url("assets/font/Dot Matrix Regular.ttf");
-}
-
-@font-face {
   font-family: "DPdots";
   src: url("assets/font/BPdots.otf");
 }
