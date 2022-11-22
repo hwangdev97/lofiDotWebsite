@@ -1,19 +1,12 @@
 <template>
   <div
-    class="bg-hero-pattern h-screen w-screen text-white font-dotsBp flex-col flex overflow-hidden transition-all"
+    class="bg-hero-pattern h-screen w-screen text-white font-dotsBp flex-col flex overflow-hidden transition-all relative"
   >
     <NavigationHeaderBar class="sticky top-0 z-50" />
-    <div class="cursor"></div>
     <SiteSlogan />
     <SiteSubNotes />
-
-    <div class="cursor"></div>
-    <div class="cursor2"></div>
+    <Phone class="absolute -bottom-10 right-36" />
   </div>
 </template>
 
-<style>
-.cursor {
-  
-}
-</style>
+<style></style>

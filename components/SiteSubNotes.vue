@@ -1,6 +1,11 @@
 <template>
   <div class="p-8 md:p-12 flex-none z-10 transition-all">
-    <img src="../assets/icon_1.png" class="w-20" />
+    <div class="flex items-center font-sans  py-4">
+      <img src="../assets/icon_1.png" class="w-20 hover:w-24  transition-all" />
+      <h3 class="hidden  text-xl md:text-2xl lg:text-4xl px-8  transition-all">
+        Download from App Store
+      </h3>
+    </div>
     <p class="py-4 md:py-10 text-sm md:text-base lg:text-lg">
       I've seen things you people wouldn't believe... <br />
       Attack ships on fire off the shoulder of Orion... <br />
