@@ -5,7 +5,7 @@
     <NavigationHeaderBar class="sticky top-0 z-50" />
     <SiteSlogan />
     <SiteSubNotes />
-    <div class="absolute -bottom-10 right-36 z-50">
+    <div class="absolute bottom-10 right-52 z-50">
       <MagicHoverCardEffect>
         <Phone />
       </MagicHoverCardEffect>

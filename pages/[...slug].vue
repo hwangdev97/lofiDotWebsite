@@ -1,11 +1,12 @@
 <template>
   <main class="bg-black">
     <NavigationHeaderBar class="font-dotsBp sticky top-0 z-50" />
-    <div class="flex items-center justify-center ">
+    <div class="flex items-center justify-center">
       <ContentDoc
-        class="pageContentStyle text-white/90 p-2 md:p-6 md:max-w-2xl items-center"
+        class="pageContentStyle text-white/90 p-4 md:p-6 md:max-w-2xl items-center"
       />
     </div>
+    <ContentDocFooter />
   </main>
 </template>
 <style lang="scss">
@@ -31,7 +32,8 @@
   h4 {
     font-size: 0.9rem;
   }
-  p, li{
+  p,
+  li {
     font-size: 0.9rem;
     padding: 0.5rem 0;
     color: aliceblue;
