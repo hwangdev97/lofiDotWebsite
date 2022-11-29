@@ -17,10 +17,10 @@
 
       <div class="flex flex-row text-xs md:text-sm md:font-black font-sans p-6">
         <span class="p-3 hover:text-green-500">
-          <a href="/useragreement"> User Agreement </a>
+          <a href="/useragreement_en"> {{ $t("UserAgreement") }} </a>
         </span>
         <span class="p-3 hover:text-green-500">
-          <a href="/privacypolicy"> Privacy Policy </a>
+          <a href="/privacypolicy_en"> {{ $t("privacypolicy") }} </a>
         </span>
       </div>
     </div>

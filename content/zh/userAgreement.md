@@ -1,3 +1,8 @@
+---
+language: zh-CN
+date: 2022-12-01
+title: 使用协议
+---
 # 使用协议
 
 本服务协议（以下简称“协议”）适用于“Sleepy Coffee”手机应用（简称“Sleepy Coffee”或“Sleepy Coffee应用”），包括通过如果通过Sleepy Coffee应用提供的服务（以下简称“Sleepy Coffee服务”）。Sleepy Coffee应用及服务由开发者黄胜蓝运营（以下简称“开发者”或“我们”）。下载或使用Sleepy Coffee应用即表示您同意本条款，因此，您应确保在使用该应用程序之前仔细阅读本协议。
