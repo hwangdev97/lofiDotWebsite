@@ -1,6 +1,6 @@
 <template>
   <div
-    class="md:visible bg-black/20 rounded-3xl border-8 border-neutral-800 hover:drop-shadow-2xl transition-all  flex flex-col items-center p-4"
+    class=" bg-black/20 rounded-3xl border-8 border-neutral-800 hover:drop-shadow-2xl transition-all  flex flex-col items-center p-4"
   >
     <header class="flex justify-between  pt-8 pb-4 w-full">
       <span>Lofi.</span>

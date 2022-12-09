@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "DPdots";
-  src: url("assets/font/BPdots.otf");
+  font-family: "BPdots";
+  src: url("/assets/font/BPdots.otf") format("opentype"),
+        url("/assets/font/BPdots.ttf")  format("truetype"); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 500;
 }

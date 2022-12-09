@@ -5,6 +5,7 @@ import FloatingVue from "floating-vue";
 import "floating-vue/dist/style.css";
 
 export default defineNuxtPlugin(({ vueApp }) => {
+  // Get localized path for homepage
   vueApp.use(FloatingVue, {
     themes: {
       "my-theme": {

@@ -1,4 +1,7 @@
-<script lang="ts" setup></script>
+<script setup>
+useSwitchLocalePath();
+</script>
+
 <template>
   <div class="flex flex-col">
     <img
@@ -17,10 +20,14 @@
 
       <div class="flex flex-row text-xs md:text-sm md:font-black font-sans p-6">
         <span class="p-3 hover:text-green-500">
-          <a href="/useragreement_en"> {{ $t("UserAgreement") }} </a>
+          <nuxt-link :to="localePath('/useragreement')">
+            {{ $t("UserAgreement") }}
+          </nuxt-link>
         </span>
         <span class="p-3 hover:text-green-500">
-          <a href="/privacypolicy_en"> {{ $t("privacypolicy") }} </a>
+          <nuxt-link :to="localePath('/privacypolicy')">
+            {{ $t("privacypolicy") }}
+          </nuxt-link>
         </span>
       </div>
     </div>

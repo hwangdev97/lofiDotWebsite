@@ -1,3 +1,6 @@
+<script setup>
+useSwitchLocalePath();
+</script>
 <template>
   <div class="p-8 md:p-12 flex-none z-10 transition-all">
     <div class="flex items-center font-sans py-4">
@@ -14,12 +17,16 @@
     </p>
     <div class="flex justify-between items-center">
       <span class="text-4xl md:text-4xl lg:text-8xl">Lofi.</span>
-      <div class="flex flex-col text-base font-black font-sans">
-        <span class="p-3 hover:text-green-500">
-          <a href="/useragreement_en"> {{ $t("UserAgreement") }} </a>
+      <div class="flex flex-col text-xs md:text-base font-black font-sans">
+        <span class="p-1 md:p-3 hover:text-green-500">
+          <nuxt-link :to="localePath('/useragreement')">
+            {{ $t("UserAgreement") }}
+          </nuxt-link>
         </span>
-        <span class="p-3 hover:text-green-500">
-          <a href="/privacypolicy_en"> {{ $t("privacypolicy") }} </a>
+        <span class="p-1 md:p-3 hover:text-green-500">
+          <nuxt-link :to="localePath('/privacypolicy')">
+            {{ $t("privacypolicy") }}
+          </nuxt-link>
         </span>
       </div>
     </div>
