@@ -6,11 +6,9 @@
     <SiteSlogan />
     <SiteSubNotes />
     <div class="absolute bottom-10 right-52 z-50">
-      <MagicHoverCardEffect>
+      <MagicHoverCardEffect class="backdrop-blur-sm">
         <Phone />
       </MagicHoverCardEffect>
     </div>
   </div>
 </template>
-
-<style></style>

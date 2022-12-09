@@ -5,6 +5,7 @@ specifiers:
   '@nuxt/image-edge': 1.0.0-27809804.194d2d6
   '@nuxtjs/i18n': 8.0.0-beta.6
   autoprefixer: ^10.4.13
+  floating-vue: 2.0.0-beta.20
   nuxt: 3.0.0
   postcss: ^8.4.19
   sass: ^1.56.1
@@ -13,6 +14,7 @@ specifiers:
 dependencies:
   '@nuxt/image-edge': 1.0.0-27809804.194d2d6
   '@nuxtjs/i18n': 8.0.0-beta.6
+  floating-vue: 2.0.0-beta.20
 
 devDependencies:
   '@nuxt/content': 2.2.2
@@ -321,6 +323,16 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /@floating-ui/core/0.3.1:
+    resolution: {integrity: sha512-ensKY7Ub59u16qsVIFEo2hwTCqZ/r9oZZFh51ivcLGHfUwTn8l1Xzng8RJUe91H/UP8PeqeBronAGx0qmzwk2g==}
+    dev: false
+
+  /@floating-ui/dom/0.1.10:
+    resolution: {integrity: sha512-4kAVoogvQm2N0XE0G6APQJuCNuErjOfPW8Ux7DFxh8+AfugWflwVJ5LDlHOwrwut7z/30NUvdtHzQ3zSip4EzQ==}
+    dependencies:
+      '@floating-ui/core': 0.3.1
+    dev: false
 
   /@intlify/bundle-utils/3.4.0_vue-i18n@9.3.0-beta.10:
     resolution: {integrity: sha512-2UQkqiSAOSPEHMGWlybqWm4G2K0X+FyYho5AwXz6QklSX1EY5EDmOSxZmwscn2qmKBnp6OYsme5kUrnN9xrWzQ==}
@@ -2466,6 +2478,15 @@ packages:
   /flat/5.0.2:
     resolution: {integrity: sha512-b6suED+5/3rTpUBdG1gupIl8MPFCAMA0QXwmljLhvCUKcUvdE4gWky9zpuGCcXHOsz4J9wPGNWq6OKpmIzz3hQ==}
     hasBin: true
+
+  /floating-vue/2.0.0-beta.20:
+    resolution: {integrity: sha512-N68otcpp6WwcYC7zP8GeJqNZVdfvS7tEY88lwmuAHeqRgnfWx1Un8enzLxROyVnBDZ3TwUoUdj5IFg+bUT7JeA==}
+    peerDependencies:
+      vue: ^3.2.0
+    dependencies:
+      '@floating-ui/dom': 0.1.10
+      vue-resize: 2.0.0-alpha.1
+    dev: false
 
   /follow-redirects/1.15.2:
     resolution: {integrity: sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==}
@@ -5970,6 +5991,12 @@ packages:
       '@intlify/shared': 9.3.0-beta.10
       '@intlify/vue-devtools': 9.3.0-beta.10
       '@vue/devtools-api': 6.4.5
+    dev: false
+
+  /vue-resize/2.0.0-alpha.1:
+    resolution: {integrity: sha512-7+iqOueLU7uc9NrMfrzbG8hwMqchfVfSzpVlCMeJQe4pyibqyoifDNbKTZvwxZKDvGkB+PdFeKvnGZMoEb8esg==}
+    peerDependencies:
+      vue: ^3.0.0
     dev: false
 
   /vue-router/4.1.6_vue@3.2.45:

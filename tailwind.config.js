@@ -16,6 +16,8 @@ module.exports = {
       backgroundImage: {
         "hero-pattern":
           "linear-gradient(to top right, rgba(0, 0,0, 0.99), rgba(0, 0,0, 0.9), rgba(0, 0,0, 0.9), rgba(0, 0, 0, 0.3)), url('./assets/bg.png')",
+        "cover-image": "url('./assets/bg.png')",
+        "play-control-image": "url('./assets/phone/playControlGroup.svg')",
       },
 
       cursor: {

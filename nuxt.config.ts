@@ -28,7 +28,7 @@ export default defineNuxtConfig({
             iso: "zh-CN",
           },
         ],
-        strategy: "prefix_except_default",
+        strategy: "prefix_and_default",
         defaultLocale: "en",
         fallbackLocale: ["en", "zh"],
       },
@@ -43,4 +43,14 @@ export default defineNuxtConfig({
     },
   },
   content: {},
+  app: {
+    pageTransition: {
+      name: "fade",
+      mode: "out-in", // default
+    },
+    layoutTransition: {
+      name: "slide",
+      mode: "out-in", // default
+    },
+  },
 });
