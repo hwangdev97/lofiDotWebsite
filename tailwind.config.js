@@ -15,8 +15,8 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern":
-          "linear-gradient(to top right, rgba(0, 0,0, 0.99), rgba(0, 0,0, 0.9), rgba(0, 0,0, 0.9), rgba(0, 0, 0, 0.3)), url('./assets/bg.png')",
-        "cover-image": "url('./assets/bg.png')",
+          "linear-gradient(to top right, rgba(0, 0,0, 0.99), rgba(0, 0,0, 0.9), rgba(0, 0,0, 0.9), rgba(0, 0, 0, 0.3)), url('./assets/bg_3.jpg')",
+        "cover-image": "url('./assets/bg_4.jpg')",
         "play-control-image": "url('./assets/phone/playControlGroup.svg')",
       },
 

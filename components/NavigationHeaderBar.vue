@@ -6,7 +6,7 @@ const switchLocalePath = useSwitchLocalePath();
   <div
     class="bg-black/20 backdrop-blur-sm px-4 md:px-8 py-2 md:py-4 flex justify-between transition-all"
   >
-    <span class="text-white text-lg md:text-2xl flex items-center">
+    <span class="text-white text-lg md:text-2xl flex items-center clickable">
       <nuxt-link :to="localePath('/')"> Lofi.</nuxt-link>
     </span>
     <div class="flex items-center">

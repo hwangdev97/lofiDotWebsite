@@ -71,7 +71,6 @@ const handleMouseout = (e: MouseEvent) => {
 .magic-hover-card {
   border-radius: 12px;
   position: relative;
-  cursor: pointer;
 
   perspective-origin: 30% 30%;
   transform-style: preserve-3d;
