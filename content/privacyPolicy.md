@@ -5,15 +5,67 @@ title: Privacy Policy
 ---
 # Privacy Policy
 
-Lorem ipsum dolor sit amet consectetur. Scelerisque consequat elit at interdum turpis. Sapien posuere euismod felis condimentum ligula. Pellentesque tristique enim amet arcu risus amet nulla. Sapien mauris ornare ac libero dignissim odio.
-Nibh massa vitae proin purus purus. Eu ut dignissim nisl pretium ornare sociis diam dictum id. Nullam tristique aliquet eu sed. Egestas quis odio et nec. Dignissim scelerisque ac massa mattis convallis orci neque enim viverra.
-Fermentum ac at praesent tincidunt tristique enim sit at. Ultrices vestibulum id sagittis sollicitudin tristique congue nulla. Parturient nec vulputate est et. Nunc sed eu odio orci eu purus. Quis integer consequat amet sed. Tortor turpis viverra semper sollicitudin morbi. Pulvinar mattis nulla hac egestas vulputate consectetur. Mi lorem enim fringilla aliquam integer nisl senectus.
-Neque et neque et pharetra. Nulla viverra commodo sagittis volutpat vitae consequat iaculis. Aliquet bibendum elementum donec sodales enim. Faucibus et sed facilisis phasellus sit tellus mauris at porttitor. Ultrices in nunc arcu euismod egestas tortor amet id suspendisse. Massa felis gravida dictum nisl.
-Cursus interdum adipiscing donec consectetur euismod. Ultrices risus sed sed pharetra rutrum sodales ac laoreet dui. Sed adipiscing ultrices aenean id turpis non amet mauris turpis. Praesent at condimentum curabitur mauris nullam non tincidunt tempus molestie. Egestas velit sollicitudin neque ac rhoncus. At egestas nam diam posuere sit et hac. In sit ut diam enim fames turpis sem ut. Sagittis morbi sed pretium tortor duis turpis. Ut sem commodo sit placerat velit posuere lorem tortor quis. Mi pellentesque commodo a commodo dolor tellus. Sagittis porttitor enim leo amet. Ut amet a nisl massa elementum sed ante. Sit ac et gravida morbi libero. Lorem imperdiet enim aliquam molestie egestas.
-Feugiat sed cursus velit aenean sit. Lectus quis rhoncus velit pulvinar arcu commodo morbi. At elementum cursus dictumst amet eget augue. Donec euismod elit amet euismod. Morbi pretium convallis sed sagittis non nunc. Ipsum ipsum urna nunc ornare velit. Lobortis risus tempus quis quis lorem etiam volutpat dignissim. Feugiat volutpat pellentesque diam nunc aliquam vestibulum volutpat.
-Faucibus ornare nec neque purus. Ornare sit gravida nisl imperdiet. Volutpat varius risus sed a pulvinar. Nulla sit at pulvinar mauris nunc. Pulvinar est sit hendrerit posuere id cras augue feugiat iaculis. Mauris nunc sit odio pellentesque nam in eget aliquam. Bibendum cursus dolor diam at purus. Sodales tellus tempus magna pellentesque libero etiam neque tempus. Donec leo venenatis in faucibus nisl vitae leo. Libero amet dis nulla eu neque. Nibh malesuada quis varius nunc nullam. Ut sed tortor a egestas. Enim nibh aliquet viverra eleifend parturient sagittis. Ut cum posuere a maecenas.
-Aliquam auctor mauris vestibulum sed. Purus sed velit ipsum enim. Donec viverra phasellus cursus felis amet. Est blandit integer orci sit cras et malesuada. Volutpat eu sollicitudin amet placerat orci viverra commodo. Magna mollis nulla ultricies blandit tristique malesuada vehicula enim. Ante vel vel lectus id nibh pellentesque.
-Volutpat quis nulla hendrerit nec volutpat id. Sed in commodo fringilla hendrerit faucibus orci sem. Sit habitant nisi sed nec pharetra vestibulum gravida nam. Bibendum purus semper amet orci urna tellus faucibus sed elementum. Aliquet a enim adipiscing malesuada non dignissim amet. In duis ut ornare libero bibendum tincidunt nec. Quis dictum aliquet pretium scelerisque amet nulla tortor integer. Semper pellentesque adipiscing maecenas nibh urna nibh vehicula. Vitae eu at consectetur varius enim venenatis. Bibendum purus tellus molestie a turpis duis purus donec elit. Felis bibendum et at integer odio. Id pretium ornare sed proin urna eget. Vel proin sed vulputate etiam mauris nisl lectus lacus gravida.
-Interdum mauris semper non varius augue sed sociis erat. Elit id aenean ultricies id tellus non magna. Turpis tincidunt in libero varius nulla sit quis. Magna viverra quisque nullam varius mus. Blandit risus vestibulum a iaculis non aliquet commodo.
-Consectetur sagittis et lectus bibendum sed tempor. In faucibus massa non nunc vivamus volutpat. Nibh id in tristique malesuada eget venenatis posuere pulvinar viverra. Quisque sit diam tortor pellentesque quam molestie blandit eleifend a. Nulla natoque morbi lorem sed etiam fames libero sem sed. Leo augue quis non duis nulla donec pulvinar risus. Blandit erat ultricies leo senectus faucibus id neque augue. Non mattis vel tincidunt accumsan. Porttitor varius dignissim et sagittis ultricies consequat. Id vel ultricies pulvinar condimentum sed convallis. Diam blandit euismod vulputate orci nunc amet sed euismod. Neque et faucibus in urna quam magna. Congue porttitor dui eget pulvinar et eu. Non tempus integer et faucibus vivamus elementum a in nisl. Cursus sit lacus pharetra mauris.
-At ullamcorper varius tristique aenean tellus. Scelerisque porttitor porta lorem habitant luctus volutpat dictum a tortor. In interdum mattis pretium tellus consequat varius ac id tempor. Elementum est sit sit dictum pellentesque consectetur ac neque laoreet. In posuere sed hendrerit varius commodo egestas. Risus malesuada a commodo ultricies at. Nulla scelerisque mollis lobortis libero mattis neque massa. Iaculis nulla cras arcu id ipsum iaculis. Elementum maecenas imperdiet leo quis. Pellentesque nunc habitant facilisis amet commodo viverra facilisis in ut. Facilisis proin ridiculus tristique tempor. Sit augue nisi velit phasellus dapibus neque amet sit. Est sed et lectus eu proin tristique pellentesque neque erat. Ut massa in nunc morbi id est integer ultrices sit.
+This Service Agreement (hereinafter referred to as the "Agreement") applies to the "Lofi." mobile app (hereinafter referred to as "Lofi." or "Lofi Dot"), including any services provided through the Lofi. app (hereinafter referred to as the "Lofi. Services"). The Lofi. app and services are operated by Developer Shenglan Huang (hereinafter referred to as the "Developer" or "we"). Downloading or using the Lofi. app indicates your agreement to this Terms, therefore, you should make sure to read this Agreement carefully prior to using the app.
+
+If you choose to use our services, then you agree to the collection and use of information related to this policy. The personal information we collect will be used to provide and improve the services. Except as set out in this Privacy Policy, we will not use or share your information with anyone.
+
+1. # Range of Information Collection
+
+In order to provide you with a better experience while using our services, we may require you to provide us with certain personal identity information. The information requested will be retained on your device and we will not collect this information in any way.
+
+### Log Data
+
+We would like to inform you that whenever you use our services, in the event of an application error, we will collect data and information (through third party products) on your device, known as log data. This log data may include information such as your device name, operating system version, application configuration when using our services, dates and times of your use of the services, and other statistical data.
+
+The terms used in this Privacy Policy have the same meaning as our Terms of Use unless otherwise defined in this Privacy Policy, which can be accessed in the Lofi. app.
+
+2. # How to collect information?
+
+We collect your information through your active submission, and records generated in the process of using our services.
+
+3. # Information usage and disclosure
+
+In order to provide you with better, more convenient and secure services, we may use the collected information for the following purposes under the premise of meeting relevant laws and regulations:
+
+- Provide services to you.
+- Help us analyze the use of services.
+- Other related scenarios that may require the use of collected information, if the use scenario has no reasonable correlation with the initial scenario, we will re-obtain your consent before using the information.
+
+Without your consent, we will not share your information with any unrelated third party. However, as our business continues to develop, we and our affiliated companies may engage in mergers, acquisitions, asset transfers or similar transactions, and your information may be transferred as part of such transactions. We will comply with the requirements of relevant laws and regulations, notify you before the transfer, ensure the confidentiality of the information when transferring, and continue to fulfill the corresponding responsibilities and obligations after the change.
+
+We may disclose your information for the following reasons:
+
+- Comply with relevant laws and regulations, etc.
+- Comply with the provisions of court judgments, orders or other legal procedures.
+- Comply with the requirements of relevant government agencies or other competent authorities.
+- We have reasons to believe that it is necessary to comply with relevant laws and regulations.
+- In order to execute relevant service agreements or this privacy statement, maintain social public interest, handle complaints/disputes, protect the safety or legitimate rights and interests of our customers, our or our affiliated companies, other users or employees, and other reasonably necessary purposes.
+- Cases where you are legally authorized.
+
+If we disclose your information for the above reasons, we will inform you in a timely manner in accordance with relevant laws and regulations and this statement.
+
+4. # Information Storage
+
+Usually, we only retain your information during the period of providing services to you, and the retention time will not exceed the time necessary to fulfill the relevant purpose. However, in the following situations, and only for the purpose of the related purposes, we may need to retain your information or part of the information for a longer period of time:
+
+- Comply with applicable laws and regulations.
+- Comply with the requirements of the court judgment, award or other legal procedures.
+- Comply with the requirements of relevant government authorities or other authorized bodies.
+- We have reasons to believe that we need to comply with laws and regulations.
+
+For the purpose of executing relevant service agreements or this privacy statement, maintaining social public interests, dealing with complaints/disputes, protecting the personal and property safety or legitimate rights and interests of our customers, us or our affiliated companies, other users or employees reasonably necessary.
+
+5. # Information Security
+
+We take very seriously your trust in us to provide your personal information, so we strive to use commercially acceptable ways to protect it. However, please remember that no method of Internet transmission or electronic storage is 100% secure and reliable and we cannot guarantee its absolute security.
+
+6. # Change
+
+We may periodically update our Privacy Policy. Therefore, we recommend that you check this page regularly to stay informed of any changes. If there are any changes, we will post the new Privacy Policy on this page to notify you.
+
+This policy is effective from December 20, 2022
+
+7. # Contact us
+
+If you have any questions or suggestions about this Privacy Policy, please feel free to contact us at [hwangdev97@gmail.com](mailto:hwangdev97@gmail.com).
+

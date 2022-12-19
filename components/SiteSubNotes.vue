@@ -3,7 +3,7 @@ useSwitchLocalePath();
 </script>
 <template>
   <div class="p-8 md:p-12 flex-none z-10 transition-all">
-    <div class="flex items-center font-sans py-4">
+    <div class="flex items-center font-sans py-4 clickable">
       <img src="../assets/icon_1.png" class="w-20 hover:w-24 transition-all " />
       <!-- <h3 class="hidden text-xl  md:text-2xl lg:text-4xl px-8 transition-all">
         Download from App Store
