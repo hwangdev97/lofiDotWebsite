@@ -1,4 +1,4 @@
 interface SloganItem {
   title: string;
-  subtitle: string;
+  index: number;
 }
