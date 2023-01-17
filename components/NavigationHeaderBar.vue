@@ -36,9 +36,12 @@ const switchLocalePath = useSwitchLocalePath();
       </VDropdown>
 
       <span
-        class="text-white text-sm md:text-lg hover:bg-white/10 hover:text-green-500 px-6 py-1 transition-all rounded-md font-sans font-black"
-        >{{ $t("Download") }}</span
+        class="__cursor_text text-white text-sm md:text-lg hover:bg-white/10 hover:text-green-500 px-6 py-1 transition-all rounded-md font-sans font-black"
       >
+        <a href="https://apps.apple.com/app/id1628710103">
+          {{ $t("Download") }}
+        </a>
+      </span>
     </div>
   </div>
 </template>

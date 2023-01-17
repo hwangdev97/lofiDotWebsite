@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-import { computed } from "vue";
 const lineWords: SloganItem[] = [
   {
     title:
@@ -32,7 +31,7 @@ let n = 0;
 let activeIndex = ref(1)
  
 const tm = setInterval(() => {
-  console.log("interval", activeIndex);
+  // console.log("interval", activeIndex);
   if (n < lineWords.length) {
     n = n + 1;
     activeIndex.value = n;
