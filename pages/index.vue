@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-import bg0 from "~/assets/unsplash_0.jpg";
 import bg1 from "~/assets/unsplash_1.jpg";
 import bg2 from "~/assets/unsplash_2.jpg";
 import bg3 from "~/assets/unsplash_3.jpg";
@@ -21,7 +20,6 @@ import bg18 from "~/assets/unsplash_18.jpg";
 
 const randomBg = () => {
   const bgArray = [
-    bg0,
     bg1,
     bg2,
     bg3,
