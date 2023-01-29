@@ -1,23 +1,57 @@
 <script lang="ts" setup>
-import bg0 from "~/assets/bg_0.jpg";
-import bg1 from "~/assets/bg_1.jpg";
-import bg2 from "~/assets/bg_2.jpg";
-import bg3 from "~/assets/bg_3.jpg";
-import bg4 from "~/assets/bg_4.jpg";
+import bg0 from "~/assets/unsplash_0.jpg";
+import bg1 from "~/assets/unsplash_1.jpg";
+import bg2 from "~/assets/unsplash_2.jpg";
+import bg3 from "~/assets/unsplash_3.jpg";
+import bg4 from "~/assets/unsplash_4.jpg";
+import bg5 from "~/assets/unsplash_5.jpg";
+import bg6 from "~/assets/unsplash_6.jpg";
+import bg7 from "~/assets/unsplash_7.jpg";
+import bg8 from "~/assets/unsplash_8.jpg";
+import bg9 from "~/assets/unsplash_9.jpg";
+import bg10 from "~/assets/unsplash_10.jpg";
+import bg11 from "~/assets/unsplash_11.jpg";
+import bg12 from "~/assets/unsplash_12.jpg";
+import bg13 from "~/assets/unsplash_13.jpg";
+import bg14 from "~/assets/unsplash_14.jpg";
+import bg15 from "~/assets/unsplash_15.jpg";
+import bg16 from "~/assets/unsplash_16.jpg";
+import bg17 from "~/assets/unsplash_17.jpg";
+import bg18 from "~/assets/unsplash_18.jpg";
 
 const randomBg = () => {
-  const bgArray = [bg0, bg1, bg2, bg3, bg4];
-  const randomIntegerFrom0To4 = Math.floor(Math.random() * 4);
+  const bgArray = [
+    bg0,
+    bg1,
+    bg2,
+    bg3,
+    bg4,
+    bg5,
+    bg6,
+    bg7,
+    bg8,
+    bg9,
+    bg10,
+    bg11,
+    bg12,
+    bg13,
+    bg14,
+    bg15,
+    bg16,
+    bg17,
+    bg18,
+  ];
+  const randomInteger = Math.floor(Math.random() * 18);
   const baseString =
     "background-size: cover;" +
     "background-repeat: no-repeat;" +
     "background-position: center;";
   const cssStringWithLG =
     "background: linear-gradient(to top right, rgba(0, 0,0, 0.99), rgba(0, 0,0, 0.9), rgba(0, 0,0, 0.9), rgba(0, 0, 0, 0.3)), " +
-    `url(${bgArray[randomIntegerFrom0To4]});` +
+    `url(${bgArray[randomInteger]});` +
     baseString;
   const cssString =
-    `background-image: url(${bgArray[randomIntegerFrom0To4]});` + baseString;
+    `background-image: url(${bgArray[randomInteger]});` + baseString;
   return [cssString, cssStringWithLG];
 };
 
