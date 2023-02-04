@@ -44,6 +44,14 @@ export default defineNuxtConfig({
   },
   content: {},
   app: {
+    head: {
+      charset: 'utf-16',
+      title: 'Lofi. App',
+    },
+    meta: [
+      // <meta name="description" content="My amazing site">
+      { name: 'description', content: 'lofi music and time-tracking.' }
+    ],
     pageTransition: {
       name: "fade",
       mode: "out-in", // default
