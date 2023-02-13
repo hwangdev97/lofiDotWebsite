@@ -67,8 +67,12 @@ export default defineNuxtConfig({
           property: "og:description",
           content: "Track your creative journey with the Lofi.",
         },
-        { name: "twitter:site", content: "lofidot.com" },
-        { name: "twitter:card", content: "summary_large_image" },
+        { hid: "twitter:site", name: "twitter:site", content: "lofidot.com" },
+        {
+          hid: "twitter:Card",
+          name: "twitter:card",
+          content: "summary_large_image",
+        },
         {
           hid: "twitter:url",
           name: "twitter:url",
