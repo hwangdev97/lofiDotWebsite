@@ -91,7 +91,7 @@ export default defineNuxtConfig({
         {
           hid: "twitter:image",
           name: "twitter:image",
-          content: "/twitterImage.png",
+          content: "https://lofidot.com//twitterImage.png",
         },
       ],
     },
