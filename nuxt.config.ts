@@ -45,13 +45,31 @@ export default defineNuxtConfig({
   content: {},
   app: {
     head: {
-      charset: 'utf-16',
-      title: 'Lofi. App',
+      charset: "utf-16",
+      title: "Lofi. - music and time-tracking",
+      meta: [
+        {
+          name: "description",
+          content: "Track your creative journey with the Lofi.",
+        },
+        {
+          hid: "og-image",
+          property: "og: image",
+          content: "https://lofidot.com/ogimage.png",
+        },
+        {
+          hid: "og-title",
+          property: "og:title",
+          content: "Lofi. - music and time-tracking",
+        },
+        {
+          hid: "og-desc",
+          property: "og:description",
+          content: "Track your creative journey with the Lofi.",
+        },
+        { hid: "t-type", name: "twitter:card", content: "summary_large_image" },
+      ],
     },
-    meta: [
-      // <meta name="description" content="My amazing site">
-      { name: 'description', content: 'lofi music and time-tracking.' }
-    ],
     pageTransition: {
       name: "fade",
       mode: "out-in", // default
