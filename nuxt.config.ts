@@ -67,7 +67,27 @@ export default defineNuxtConfig({
           property: "og:description",
           content: "Track your creative journey with the Lofi.",
         },
-        { hid: "t-type", name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:card", content: "summary_large_image" },
+        {
+          hid: "twitter:url",
+          name: "twitter:url",
+          content: "https://lofidot.com",
+        },
+        {
+          hid: "twitter:title",
+          name: "twitter:title",
+          content: "Lofi. - music and time-tracking",
+        },
+        {
+          hid: "twitter:description",
+          name: "twitter:description",
+          content: "Track your creative journey with the Lofi.",
+        },
+        {
+          hid: "twitter:image",
+          name: "twitter:image",
+          content: "/twitterImage.png",
+        },
       ],
     },
     pageTransition: {
