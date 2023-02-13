@@ -54,7 +54,7 @@ export default defineNuxtConfig({
         },
         {
           hid: "og-image",
-          property: "og: image",
+          property: "og:image",
           content: "https://lofidot.com/ogimage.png",
         },
         {
