@@ -33,8 +33,9 @@ export default defineNuxtConfig({
         fallbackLocale: ["en", "zh"],
       },
     ],
-  ],
 
+  ],
+  plugins: [{ src: '~/plugins/vercel.ts', mode: 'client' }],
   css: ["~/assets/css/main.css"],
   postcss: {
     plugins: {
