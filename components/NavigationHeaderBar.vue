@@ -10,6 +10,7 @@ const switchLocalePath = useSwitchLocalePath();
       <nuxt-link :to="localePath('/')"> Lofi.</nuxt-link>
     </span>
     <div class="flex items-center">
+      <!-- // Dropdown -->
       <VDropdown class="items-center flex" theme="my-theme">
         <button type="button" class="items-center">
           <img
@@ -34,6 +35,22 @@ const switchLocalePath = useSwitchLocalePath();
           </div>
         </template>
       </VDropdown>
+      <span
+        class="__cursor_text text-sm md:text-lg font-sans font-black px-6 py-1 transition-all rounded-md hover:bg-white/10 hover:text-green-500"
+      >
+        <!--EN: doc https://www.craft.do/s/4TL24QbA2PBGcA  -->
+        <!--CN: doc https://www.craft.do/s/BgO3NamYJSAsSA -->
+        <a
+          :href="
+            $i18n.locale == 'zh'
+              ? 'https://www.craft.do/s/BgO3NamYJSAsSA'
+              : 'https://www.craft.do/s/4TL24QbA2PBGcA'
+          "
+          target="_blank"
+        >
+          {{ $t("Release") }}
+        </a>
+      </span>
 
       <span
         class="__cursor_text text-white text-sm md:text-lg hover:bg-white/10 hover:text-green-500 px-6 py-1 transition-all rounded-md font-sans font-black"
