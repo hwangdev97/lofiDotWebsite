@@ -46,8 +46,8 @@ export default defineNuxtConfig({
   content: {},
   app: {
     head: {
-      charset: "utf-16",
-      title: "Lofi. - music and time-tracking",
+      charset: "utf-8",
+      title: "Lofi. - lofi & time-tracking",
       meta: [
         {
           name: "description",
