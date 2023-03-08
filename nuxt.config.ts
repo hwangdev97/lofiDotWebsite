@@ -33,9 +33,8 @@ export default defineNuxtConfig({
         fallbackLocale: ["en", "zh"],
       },
     ],
-
   ],
-  plugins: [{ src: '~/plugins/vercel.ts', mode: 'client' }],
+  plugins: [{ src: "~/plugins/vercel.ts", mode: "client" }],
   css: ["~/assets/css/main.css"],
   postcss: {
     plugins: {
@@ -49,6 +48,10 @@ export default defineNuxtConfig({
       charset: "utf-8",
       title: "Lofi. - lofi & time-tracking",
       meta: [
+        {
+          name: "apple-itunes-app",
+          content: "app-id=id1628710103",
+        },
         {
           name: "description",
           content: "Track your creative journey with the Lofi.",
