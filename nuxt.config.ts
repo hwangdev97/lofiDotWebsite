@@ -50,7 +50,7 @@ export default defineNuxtConfig({
       meta: [
         {
           name: "apple-itunes-app",
-          content: "app-id=id1628710103",
+          content: "app-id=1628710103",
         },
         {
           name: "description",
