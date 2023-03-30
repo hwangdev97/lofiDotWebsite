@@ -50,8 +50,8 @@ onUnmounted(() => {
 });
 </script>
 <template>
-  <div class="p-8 md:p-12 grow transition-all">
-    <h3 class="text-lg md:text-2xl show-word">
+  <div class="p-8 md:p-12 grow transition-all text-arcNative">
+    <h3 class="text-lg md:text-2xl show-word ">
       Play on your mobile device and record time
     </h3>
     <h2 class="text-3xl md:text-4xl lg:text-4xl">
@@ -71,7 +71,6 @@ onUnmounted(() => {
   transform: translateY(0rem);
   
 }
-
 .hidden-word {
   height: 0px;
   overflow: hidden;

@@ -10,6 +10,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        arcNative: "var(--arc-palette-foregroundPrimary)",
+      },
       fontFamily: {
         dotsBp: ["BPdots"],
       },

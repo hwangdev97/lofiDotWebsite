@@ -2,7 +2,7 @@
 useSwitchLocalePath();
 </script>
 <template>
-  <div class="p-8 md:p-12 flex-none z-10 transition-all">
+  <div class="p-8 md:p-12 flex-none z-10 transition-all text-arcNative">
     <div class="flex items-center font-sans py-4 ">
       <a href="https://apps.apple.com/app/id1628710103">
         <span class="clickable">

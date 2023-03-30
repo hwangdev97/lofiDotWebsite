@@ -4,9 +4,9 @@ const switchLocalePath = useSwitchLocalePath();
 
 <template>
   <div
-    class="bg-black/20 backdrop-blur-sm px-4 md:px-8 py-2 md:py-4 flex justify-between transition-all"
+    class="bg-black/20 backdrop-blur-sm px-4 md:px-8 py-2 md:py-4 flex justify-between transition-all text-arcNative"
   >
-    <span class="text-white text-lg md:text-2xl flex items-center">
+    <span class="text-arcNative text-lg md:text-2xl flex items-center">
       <nuxt-link :to="localePath('/')"> Lofi.</nuxt-link>
     </span>
     <div class="flex items-center">
@@ -14,7 +14,7 @@ const switchLocalePath = useSwitchLocalePath();
       <VDropdown class="items-center flex" theme="my-theme">
         <button type="button" class="items-center">
           <img
-            class="w-8 h-8 p-2 hover:bg-white/10 rounded transition-all"
+            class="w-8 h-8 p-2 hover:bg-white/10 rounded transition-all text-arcNative"
             src="../assets/language.svg"
             alt=""
           />
@@ -53,7 +53,7 @@ const switchLocalePath = useSwitchLocalePath();
       </span>
 
       <span
-        class="__cursor_text text-white text-sm md:text-lg hover:bg-white/10 hover:text-green-500 px-6 py-1 transition-all rounded-md font-sans font-black"
+        class="__cursor_text text-arcNative text-sm md:text-lg hover:bg-white/10 hover:text-green-500 px-6 py-1 transition-all rounded-md font-sans font-black"
       >
         <a href="https://apps.apple.com/app/id1628710103">
           {{ $t("Download") }}
