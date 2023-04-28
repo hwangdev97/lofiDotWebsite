@@ -4,7 +4,7 @@ const switchLocalePath = useSwitchLocalePath();
 
 <template>
   <div
-    class="bg-black/20 backdrop-blur-sm px-4 md:px-8 py-2 md:py-4 flex justify-between transition-all text-arcNative"
+    class="bg-black/20 backdrop-blur-sm px-4 md:px-8 py-2 md:py-4 flex justify-between transition-all text-arcNative select-none"
   >
     <span class="text-arcNative text-lg md:text-2xl flex items-center">
       <nuxt-link :to="localePath('/')"> Lofi.</nuxt-link>
