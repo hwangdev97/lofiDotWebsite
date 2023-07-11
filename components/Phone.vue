@@ -6,6 +6,8 @@ const props = defineProps({
 <template>
   <div
     class="bg-black/20 rounded-3xl border-8 border-neutral-800 hover:drop-shadow-2xl transition-all flex flex-col items-center p-4"
+    data-cursor="block"
+    data-cursor-style="radius: 1.65rem" 
   >
     <a href="https://apps.apple.com/app/id1628710103">
       <header class="flex justify-between pt-8 pb-4 w-full">

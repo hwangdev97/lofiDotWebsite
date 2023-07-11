@@ -1,3 +1,16 @@
+<script lang="ts">
+import { initCursor } from 'ipad-cursor'
+import type { IpadCursorConfig, IpadCursorStyle } from 'ipad-cursor'
+
+const normalStyle: IpadCursorStyle = { background: 'transparent' }
+ 
+const config: IpadCursorConfig = {
+  normalStyle,
+ 
+};
+initCursor(config)
+
+</script>
 <template>
   <div>
     <NuxtLayout>

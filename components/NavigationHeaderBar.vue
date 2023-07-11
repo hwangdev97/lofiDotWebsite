@@ -37,6 +37,7 @@ const switchLocalePath = useSwitchLocalePath();
       </VDropdown>
       <span
         class="__cursor_text text-sm md:text-lg font-sans font-black px-6 py-1 transition-all rounded-md hover:bg-white/10 hover:text-green-500"
+        data-cursor="block"
       >
         <!--EN: doc https://www.craft.do/s/4TL24QbA2PBGcA  -->
         <!--CN: doc https://www.craft.do/s/BgO3NamYJSAsSA -->
@@ -47,6 +48,7 @@ const switchLocalePath = useSwitchLocalePath();
               : 'https://www.craft.do/s/4TL24QbA2PBGcA'
           "
           target="_blank"
+       
         >
           {{ $t("Release") }}
         </a>
@@ -54,6 +56,7 @@ const switchLocalePath = useSwitchLocalePath();
 
       <span
         class="__cursor_text text-arcNative text-sm md:text-lg hover:bg-white/10 hover:text-green-500 px-6 py-1 transition-all rounded-md font-sans font-black"
+        data-cursor="block"
       >
         <a href="https://apps.apple.com/app/id1628710103">
           {{ $t("Download") }}
