@@ -12,7 +12,7 @@ const switchLocalePath = useSwitchLocalePath();
     <div class="flex items-center">
       <!-- // Dropdown -->
       <VDropdown class="items-center flex" theme="my-theme">
-        <button type="button" class="items-center">
+        <button type="button" class="items-center" data-cursor="block" >
           <img
             class="w-8 h-8 p-2 hover:bg-white/10 rounded transition-all text-arcNative"
             src="../assets/language.svg"

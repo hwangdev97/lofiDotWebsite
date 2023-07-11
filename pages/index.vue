@@ -128,8 +128,8 @@ body::after {
   z-index: 99;
   top: var(--y);
   left: var(--x);
-  right: 0;
-  bottom: 0;
+  right: 0.5em;
+  bottom: 0.5em;
   width: 1em;
   height: 1em;
   border-radius: 50%;
